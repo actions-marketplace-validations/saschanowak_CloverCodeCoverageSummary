@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.10.0",
-    "fast-xml-parser": "^4.1.4",
+    "fast-xml-parser": "^4.2.5",
     "glob": "^9.3.4"
   },
   "devDependencies": {
