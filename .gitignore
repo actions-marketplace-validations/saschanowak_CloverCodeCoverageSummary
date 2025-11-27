@@ -97,3 +97,9 @@ Thumbs.db
 # Ignore built ts files
 __tests__/runner/*
 lib/**/*
+code-coverage-*.md
+!__tests__/data/code-coverage-*.md
+
+# IDE files
+.idea
+*.code-workspace
